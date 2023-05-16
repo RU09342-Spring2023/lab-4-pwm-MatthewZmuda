@@ -3,8 +3,8 @@
  *
  *  Created on: Feb 23, 2023
  *      Author: Matthew Zmuda
- *
  */
+
 #include <msp430.h>
 
 void LEDSetup();
